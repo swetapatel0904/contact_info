@@ -7,4 +7,5 @@ Map <String, WidgetBuilder> app_route={
   "/":(context) => HomeScreen(),
   "add_data":(context) => AddDataScreen(),
   "detail":(context) => DetailScreen(),
+
 };
